@@ -31,7 +31,5 @@ A special thank you to the following parties, you're awesome!
 &nbsp;
 
 <p align="center"><img src="https://raw.githubusercontent.com/sassy-thing/sassy-thing/main/assets/footer/footer.svg?sanitize=true" /></p>
-<p align="center">Copyright &copy; 2023 <a href="https://github.com/sassy-thing" target="_blank">SassyThing</a>
-<p align="center"><a href="https://github.com/sassy-thing/sassy-thing/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=ff0000&colorA=313244&colorB=B4BEFE"/></a></p>
 
 <!-- end of footer -->
